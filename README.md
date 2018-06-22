@@ -1,2 +1,0 @@
-# MGXT-
-MGXT  contract 
